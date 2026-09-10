@@ -22,11 +22,11 @@
 
 ## 👋 关于我
 
-- 🔐 目前在 **字节跳动** 从事安全相关的工作，日常折腾 **Web 安全 / 内网渗透 / 红队**。
+- 🔐 之前在 **字节跳动** 从事安全相关的工作，日常折腾 **Web 安全 / 内网渗透 / 红队**。
 - 🍎 业余黑苹果爱好者，维护了 [clover](https://github.com/sqlsec/clover)、[Hackintosh](https://github.com/sqlsec/Hackintosh) 等 EFI 配置仓库。
 - 📱 喜欢把设备榨干 —— **Termux / PVE / 软路由 / 迷你主机** 都玩过一遍。
 - ✍️ 长期更新独立博客 [**sqlsec.com**](https://www.sqlsec.com)，记录踩坑、折腾与安全笔记。
-- 📮 欢迎交流：**x1ct34m@gmail.com**
+- 📮 欢迎交流：**admin@sqlsec.com**
 
 ---
 
@@ -38,43 +38,7 @@
 
 ---
 
-## 🚀 精选项目
-
-<div align="center">
-
-  <a href="https://github.com/sqlsec/clover"><img alt="clover" src="https://github-readme-stats.vercel.app/api/pin/?username=sqlsec&repo=clover&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" /></a>
-  <a href="https://github.com/sqlsec/Hackintosh"><img alt="Hackintosh" src="https://github-readme-stats.vercel.app/api/pin/?username=sqlsec&repo=Hackintosh&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" /></a>
-  <br/>
-  <a href="https://github.com/sqlsec/termux-install-linux"><img alt="termux-install-linux" src="https://github-readme-stats.vercel.app/api/pin/?username=sqlsec&repo=termux-install-linux&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" /></a>
-  <a href="https://github.com/sqlsec/ssrf-vuls"><img alt="ssrf-vuls" src="https://github-readme-stats.vercel.app/api/pin/?username=sqlsec&repo=ssrf-vuls&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" /></a>
-
-  <br/><br/>
-
-  <a href="https://github.com/sqlsec?tab=repositories"><img alt="More repos" src="https://img.shields.io/badge/%E6%9F%A5%E7%9C%8B%E5%85%A8%E9%83%A8%20105%20%E4%B8%AA%E4%BB%93%E5%BA%93-36BCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
-
-</div>
-
----
-
 ## 📊 GitHub 数据
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sqlsec&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sqlsec&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&border_radius=10" />
-    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sqlsec&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sqlsec&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sqlsec&layout=compact&langs_count=8&hide_border=true&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_radius=10" />
-    <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqlsec&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117" />
-  </picture>
-
-</div>
-
-<br/>
 
 <div align="center">
   <picture>
