@@ -10,7 +10,7 @@
   <br/><br/>
 
   <a href="https://www.sqlsec.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-sqlsec.com-36BCF7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:x1ct34m@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-x1ct34m@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:admin@sqlsec.com"><img alt="Email" src="https://img.shields.io/badge/Email-admin@sqlsec.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img alt="Company" src="https://img.shields.io/badge/Company-ByteDance-3370FF?style=flat-square" />
   <img alt="Location" src="https://img.shields.io/badge/Location-Nanjing%20%C2%B7%20NJUPT-2C5364?style=flat-square&logo=googlemaps&logoColor=white" />
   <a href="https://github.com/sqlsec?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/sqlsec?style=flat-square&logo=github&label=Followers&color=36BCF7&labelColor=0D1117" /></a>
@@ -39,16 +39,6 @@
 ---
 
 ## 📊 GitHub 数据
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sqlsec&hide_border=true&theme=tokyonight&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=C9D1D9&dates=8B949E&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sqlsec&hide_border=true&theme=default&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&border_radius=10" />
-    <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sqlsec&hide_border=true&theme=tokyonight&background=0D1117" />
-  </picture>
-</div>
-
-<br/>
 
 <div align="center">
   <picture>
