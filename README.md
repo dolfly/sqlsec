@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://www.sqlsec.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-sqlsec.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" /></a>
-  <a href="mailto:x1ct34m@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-x1ct34m@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+  <a href="mailto:admin@sqlsec.com"><img alt="Email" src="https://img.shields.io/badge/Email-admin@sqlsec.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
   <a href="https://github.com/sqlsec"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sqlsec-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
   <br/><br/>
